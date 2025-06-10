@@ -1,0 +1,9 @@
+pydantic
+pyautogui
+qdrant-client
+pymongo
+openai
+google-generativeai
+python-dotenv
+mss
+pytesseract
